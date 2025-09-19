@@ -1,0 +1,5 @@
+{
+  "name": "Personal Expense Tracker",
+  "description": "A secure, user-friendly web app to help users log, categorize, and visualize their expenses in real time, with a clean dashboard showing trends and totals.",
+  "requestFramePermissions": []
+}
